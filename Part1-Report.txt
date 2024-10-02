@@ -1,0 +1,8 @@
+SORTING ALGORITHM
+
+The specifications of the sorting algorithm that needed to be implemented were quite strict and the performance requested was reasonably fast. This immediatley made me think to using the merge sort algorithm. This is an algorithm i have learnt about many times and has very strong performance with the worst case time complexity being O(NLogN). It is a top down implementation of the merge sort algorithm
+
+
+MATRIX ADDITION
+
+I was asked to complete this task wildt adhereing to O(N) time complexity. I did this by creating a while loop that only iterates over the length of the maximum combination of the length of both entries arraylists. i then added the flow control statements within the while loop to check for double entries and taking the maximum of each positional entry
